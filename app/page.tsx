@@ -36,7 +36,7 @@ export default function Home() {
         <section className="rounded-3xl border bg-white p-6 shadow-sm">
           <div className="flex flex-col gap-6 md:flex-row md:items-center md:justify-between">
             <div className="flex items-center gap-5">
-              <div className="flex h-28 w-28 items-center justify-center rounded-full bg-indigo-100 text-3xl font-bold text-indigo-700">AM</div>
+              <div className="flex h-28 w-28 items-center justify-center rounded-full bg-indigo-100 text-3xl font-bold text-indigo-700">СК</div>
               <div>
                 <h1 className="text-3xl font-bold">Степан Кузнецов</h1>
                 <p className="mt-1 text-sm text-indigo-600">@skuznet · Student</p>

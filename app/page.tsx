@@ -185,8 +185,8 @@ export default function Home() {
           <div className="flex flex-col gap-5 md:flex-row md:items-center md:justify-between">
             <div className="flex flex-wrap items-center gap-5">
               <div className="flex items-center gap-2 font-semibold">
-                <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-gray-900 text-xs text-white">N</div>
-                <span>© 2026 NameSpace</span>
+                <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-gray-900 text-xs text-white">D</div>
+                <span>© 2026 DiopTriy</span>
               </div>
               <div className="hidden h-5 w-px bg-gray-200 md:block" />
               <div className="flex gap-5 text-sm text-gray-500">

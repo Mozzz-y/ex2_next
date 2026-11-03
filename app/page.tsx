@@ -27,8 +27,8 @@ export default function Home() {
 
         <header className="mb-6 flex items-center justify-between">
           <div className="flex items-center gap-3">
-            <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-gray-900 text-white font-bold">N</div>
-            <span className="text-lg font-bold">NameSpace</span>
+            <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-gray-900 text-white font-bold">D</div>
+            <span className="text-lg font-bold">DiopTriy</span>
           </div>
           <button className="rounded-xl border bg-white p-3"><Settings size={19} /></button>
         </header>

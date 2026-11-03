@@ -38,10 +38,10 @@ export default function Home() {
             <div className="flex items-center gap-5">
               <div className="flex h-28 w-28 items-center justify-center rounded-full bg-indigo-100 text-3xl font-bold text-indigo-700">AM</div>
               <div>
-                <h1 className="text-3xl font-bold">Алексей Морозов</h1>
-                <p className="mt-1 text-sm text-indigo-600">@alexm · Product Designer</p>
+                <h1 className="text-3xl font-bold">Степан Кузнецов</h1>
+                <p className="mt-1 text-sm text-indigo-600">@skuznet · Student</p>
                 <p className="mt-3 max-w-xl text-sm leading-6 text-gray-500">
-                  Дизайнер цифровых продуктов. Создаю простые интерфейсы,
+                  Создаю простые интерфейсы,
                   продумываю пользовательский опыт и люблю аккуратный дизайн.
                 </p>
               </div>
@@ -87,9 +87,7 @@ export default function Home() {
           <div className="rounded-3xl border bg-white p-6 shadow-sm">
             <h2 className="text-lg font-bold">О себе</h2>
             <p className="mt-4 text-sm leading-6 text-gray-500">
-              Работаю с цифровыми продуктами более 6 лет.
-              Люблю превращать сложные задачи в понятные интерфейсы
-              и создавать удобные дизайн-системы для команд.
+              Учусь в колледже 26Кадр на направлении информационные системы и программирование.
             </p>
             <h3 className="mt-6 font-bold">Навыки</h3>
             <div className="mt-3 flex flex-wrap gap-2">
@@ -120,27 +118,27 @@ export default function Home() {
                 <Mail className="text-gray-500" />
                 <div>
                   <p className="text-xs text-gray-500">Email</p>
-                  <p className="text-sm font-semibold">alex@example.com</p>
+                  <p className="text-sm font-semibold">skuznet09@mail.ru</p>
                 </div>
               </div>
               <div className="flex items-center gap-3"><Globe className="text-gray-500" />
               <div>
                   <p className="text-xs text-gray-500">Веб-сайт</p>
-                  <p className="text-sm font-semibold">alexm.design</p>
+                  <p className="text-sm font-semibold">skuznet.com</p>
               </div>
               </div>
               <div className="flex items-center gap-3">
                 <Linkedin className="text-gray-500" />
                 <div>
                   <p className="text-xs text-gray-500">Социальные сети</p>
-                  <p className="text-sm font-semibold">@alexm</p>
+                  <p className="text-sm font-semibold">@skuznet</p>
                 </div>
               </div>
               <div className="flex items-center gap-3">
                 <CalendarDays className="text-gray-500" />
                 <div>
                   <p className="text-xs text-gray-500">Дата регистрации</p>
-                  <p className="text-sm font-semibold">12 марта 2022</p>
+                  <p className="text-sm font-semibold">12 марта 2024</p>
                 </div>
               </div>
             </div>

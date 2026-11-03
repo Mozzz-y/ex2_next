@@ -58,25 +58,25 @@ export default function Home() {
           <div className="mt-8 grid grid-cols-2 gap-4 border-t pt-6 md:grid-cols-4">
             <div className="flex items-center gap-3"><FileText className="text-indigo-600" />
             <div>
-                <p className="font-bold">128</p>
+                <p className="font-bold">0</p>
                 <p className="text-xs text-gray-500">Публикации</p>
             </div>
           </div>
             <div className="flex items-center gap-3"><Users className="text-indigo-600" />
             <div>
-                <p className="font-bold">12.4K</p>
+                <p className="font-bold">34</p>
                 <p className="text-xs text-gray-500">Подписчики</p>
               </div>
             </div>
             <div className="flex items-center gap-3"><UserRound className="text-indigo-600" />
             <div>
-                <p className="font-bold">384</p>
+                <p className="font-bold">258</p>
                 <p className="text-xs text-gray-500">Подписки</p>
               </div>
             </div>
             <div className="flex items-center gap-3"><Heart className="text-indigo-600" />
             <div>
-                <p className="font-bold">8.7K</p>
+                <p className="font-bold">0</p>
                 <p className="text-xs text-gray-500">Лайки</p>
             </div>
             </div>
